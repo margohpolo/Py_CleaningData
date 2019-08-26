@@ -1,6 +1,8 @@
 # Py_CleaningData
 Download from QuantConnect | Format for MT4 | Written in Python.
 
+# Description
+Data from QuantConnect is not compatible for uploading to MT4; therefore this bit of code was written to convert the formatting.
 
 # Before
 ![Not even readable](https://github.com/margohpolo/Py_CleaningData/blob/master/csv_before.PNG)
